@@ -1,3 +1,6 @@
+//range between palindrom
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
